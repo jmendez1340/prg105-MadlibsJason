@@ -1,0 +1,32 @@
+# Variables
+a = raw_input("Please enter Day of the week: ")
+b = raw_input("Please enter a verb: ")
+c = raw_input("Please enter a object: ")
+d = raw_input("Please enter a verb preferably one ending with ing: ")
+e = raw_input("Please enter a monument: ")
+f = raw_input("Please enter an animal: ")
+g = raw_input("Please enter a food item: ")
+h = raw_input("Please enter a feminine name: ")
+i = raw_input("Please enter a verb, one ending with ing: ")
+j = raw_input("Please enter a item: ")
+k = raw_input("Please enter a name: ")
+l = raw_input("Please enter a name: ")
+
+# Lyrics
+print( a + " I'm gonna have myself a real good time" + "," )
+print("I feel alive and the world I'll turn it inside out - yeah" + ",")
+print("And floating around in ecstasy" + ",")
+print("So don't " + b + " me now Don't " + b + " me " + ",")
+print("Cause I'm having a good time having a good time" + ",")
+
+print("I'm a shooting " + c + " "+ d + " through the " + e + ",")
+print("Like a " + f + " defying the law of " + g + "," )
+print("I'm a racing car passing by like Lady " + h + ",")
+print("I'm gonna go go go" + ",")
+print("There's no " + i + " me" + ",")
+
+print("I'm burning through the " + j + " yeah" + ",")
+print("Two hundred degrees" + ",")
+print("That's why they call me Mister " + k + ",")
+print("I'm trav'ling at the speed of light" + ",")
+print("I wanna make a supersonic " + l + " out of you" + ",")
